@@ -1,6 +1,6 @@
 rm -rf Ahmed
 
-git clonehttps://github.com/TVAHMEDO/Ahmed.git
+git clone https://github.com/TVAHMEDO/Ahmed.git
 
 cd Ahmed
 
